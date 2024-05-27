@@ -1,0 +1,11 @@
+~ Variables: Data is stored in program.
+
+` V should have DT `
+
+V is first declared then used. 
+Eg. 
+
+`int rollNo // V is declared here. 
+
+`int rollNo=10 // V is initialized
+

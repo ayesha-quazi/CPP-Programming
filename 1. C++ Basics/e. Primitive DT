@@ -1,0 +1,13 @@
+~ Primitive [in-built] Data Types: 
+
+i. integral = int,char.
+ii.bool = True/False.
+iii.float = float, double.
+
+~ ASCII Codes are given: 
+Number is used to represent a Character. eg. A-65, B-66,.... Z-90, a-97, b-98.... z-122. 
+
+~ Modifiers: 
+
+i. Unsigned: [for int and char] 
+ii. Long: [used for printing long num's]

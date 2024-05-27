@@ -1,0 +1,15 @@
+~ Data: 
+i. Numeric DT    ii. Character/Aplhabetic DT
+
+i. Numeric DT
+integer, float
+
+ii. Aplhabetic DT
+string [single entity, could be a name or anything.]
+
+~ 1 byte = 8 bits
+
+~ Variables: Used for storing data. And for that we need DT. Eg. int a,b,c;
+a=10; b=2; c=a+b; ....
+
+

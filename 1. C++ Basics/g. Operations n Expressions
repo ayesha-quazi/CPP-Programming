@@ -1,0 +1,7 @@
+~ Operations: These op are performed on Data.
+
+i. Arithmetic op = [+, -, *, /, %]
+ii. Relational = [<, >, <<=, >>=, ==, =]
+iii. Bitwise op = [&, |, ~, ^]
+iv. Increment/Decrement = [++, --]
+v. Assignment op = [=]

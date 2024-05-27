@@ -1,0 +1,13 @@
+Precedence: Which will first executed. [ (), *, /, %, +, -]
+
+~ Area of Triangle: a = [(b*h)/2]
+
+~ Perimeter of Rectangle: p = 2*(l+b)
+
+~ Sum of n terms: s = n*(n+1)/2
+
+~ nth term of AP series: t = a+(n-1)*d 
+
+~ Root of Quadratic eqn: r=(-bt sqrt(b*b-4*a*c))/(2*a)
+
+~ Speed: s= (v*v-u*u)/(2*a)
